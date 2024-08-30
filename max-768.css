@@ -17,7 +17,7 @@ header .wrapper{
     border-radius: 8px;
     position: absolute;
     top: 50px;
-    right: -100px;
+
     visibility: hidden;
     opacity: 0;
     gap: 20px;
